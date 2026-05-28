@@ -17,8 +17,7 @@ Online Retail Dataset
 - Matplotlib
 - Seaborn
 ## Dashboard Preview
-
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ## Main Analysis
 ### 1. Revenue Trend Analysis
