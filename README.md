@@ -16,6 +16,9 @@ Online Retail Dataset
 - NumPy
 - Matplotlib
 - Seaborn
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## Main Analysis
 ### 1. Revenue Trend Analysis
